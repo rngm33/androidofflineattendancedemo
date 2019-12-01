@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OfflineAttendanceDemo</string>
+    <string name="take_attendance">Take Attendance</string>
+    <string name="view_attendance">View Attendance</string>
+    <string name="select_aprticular_teachers_from_list_and_take_attendance">Select Aprticular Teachers from list And Take Attendance</string>
+</resources>
